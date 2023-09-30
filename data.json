@@ -1,0 +1,17 @@
+[
+    {
+        "text": "Post 1 with image from Python",
+        "image_alt": "Text version of the image for Post 1",
+        "image_path": "pics/cat1.jpg"
+    },
+    {
+        "text": "Post 2 with image from Python",
+        "image_alt": "Text version of the image for Post 2",
+        "image_path": "pics/cat2.jpg"
+    },
+    {
+        "text": "Post 3 with image from Python",
+        "image_alt": "Text version of the image for Post 3",
+        "image_path": "pics/cat3.jpg"
+    }
+]

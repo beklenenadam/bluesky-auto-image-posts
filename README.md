@@ -13,6 +13,7 @@ Run
 • Adjusting posting frequency
 • Highly customizable
 
+
 **Usage:**
 1. Clone the project from GitHub.
 2. Edit the post_data.json file to add your post data.

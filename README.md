@@ -12,8 +12,11 @@ Run
 **Features:**
 
 • Fetching post data from a JSON file
+
 • Creating and sharing image posts
+
 • Adjusting posting frequency
+
 • Highly customizable
 
 
